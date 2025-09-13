@@ -1,4 +1,0 @@
-look
-take
-go
-inventory
